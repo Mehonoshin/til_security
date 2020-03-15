@@ -9,3 +9,7 @@ Adding `nomodeset` helped me, for more information see [article](https://communi
 ## Wardriving
 
 https://wigle.net/index
+
+## Pentest
+
+* https://www.hackthebox.eu/home
