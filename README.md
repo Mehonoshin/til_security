@@ -13,3 +13,4 @@ https://wigle.net/index
 ## Pentest
 
 * https://www.hackthebox.eu/home
+* https://www.offensive-security.com/metasploit-unleashed/
