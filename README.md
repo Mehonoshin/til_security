@@ -19,3 +19,6 @@ Adding `nomodeset` helped me, for more information see [article](https://communi
 ## Webcam
 
 * https://github.com/entynetproject/entropy
+
+## Exploits
+* https://github.com/hexway/r00kie-kr00kie
