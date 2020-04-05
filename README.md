@@ -22,3 +22,6 @@ Adding `nomodeset` helped me, for more information see [article](https://communi
 
 ## Exploits
 * https://github.com/hexway/r00kie-kr00kie
+
+## PrivEsc
+TBD
