@@ -24,4 +24,7 @@ Adding `nomodeset` helped me, for more information see [article](https://communi
 * https://github.com/hexway/r00kie-kr00kie
 
 ## PrivEsc
+* https://blog.g0tmi1k.com/2011/08/basic-linux-privilege-escalation/
+
+## Enumeration
 TBD
