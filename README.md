@@ -28,3 +28,8 @@ Adding `nomodeset` helped me, for more information see [article](https://communi
 
 ## Enumeration
 TBD
+
+
+# Process
+
+## Enumeration
