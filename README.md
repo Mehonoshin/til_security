@@ -32,6 +32,9 @@ Adding `nomodeset` helped me, for more information see [article](https://communi
 ## Enumeration
 TBD
 
+## CMS
+* https://github.com/P34C3-07/LavaMagentoBD
+
 ## Mobile
 
 * https://github.com/MobSF/Mobile-Security-Framework-MobSF
