@@ -22,6 +22,7 @@ Adding `nomodeset` helped me, for more information see [article](https://communi
 
 ## Exploits
 * https://github.com/hexway/r00kie-kr00kie
+* https://github.com/Avinash-acid/Redis-Server-Exploit
 
 ## Web
 * https://github.com/swisskyrepo/PayloadsAllTheThings/tree/master/File%20Inclusion
