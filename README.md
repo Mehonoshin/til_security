@@ -15,6 +15,7 @@ Adding `nomodeset` helped me, for more information see [article](https://communi
 
 * https://www.hackthebox.eu/home
 * https://www.offensive-security.com/metasploit-unleashed/
+* https://book.hacktricks.xyz/
 
 ## Webcam
 
