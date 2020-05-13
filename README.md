@@ -32,6 +32,7 @@ Adding `nomodeset` helped me, for more information see [article](https://communi
 
 ## PrivEsc
 * https://blog.g0tmi1k.com/2011/08/basic-linux-privilege-escalation/
+* https://github.com/frizb/Linux-Privilege-Escalation
 
 ## Enumeration
 TBD
