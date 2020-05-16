@@ -27,6 +27,7 @@ Adding `nomodeset` helped me, for more information see [article](https://communi
 * https://github.com/Avinash-acid/Redis-Server-Exploit
 * https://github.com/longld/peda
 * https://github.com/mzet-/linux-exploit-suggester
+* https://github.com/rastating/wordpress-exploit-framework
 
 ## Web
 * https://github.com/swisskyrepo/PayloadsAllTheThings/tree/master/File%20Inclusion
