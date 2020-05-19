@@ -51,4 +51,8 @@ TBD
 
 # Process
 
-## Enumeration
+## Enumeration checklist
+* Nmap fast scan
+* Nmap full scan + udp scan
+* Dirb/Dirbuster/Gobuster
+* Burp for HTTP
