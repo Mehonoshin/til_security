@@ -37,6 +37,9 @@ Adding `nomodeset` helped me, for more information see [article](https://communi
 * https://blog.g0tmi1k.com/2011/08/basic-linux-privilege-escalation/
 * https://github.com/frizb/Linux-Privilege-Escalation
 
+## Scanners
+* https://github.com/greenbone/openvas
+
 ## Enumeration
 TBD
 
